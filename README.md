@@ -121,8 +121,6 @@ http://localhost:8080
 viper3/
 ├── index.html                         # 完整离线应用入口
 ├── viper3.html                        # Viper3 独立源码版本
-├── reference/
-│   └── 小白审片_V1.2.html             # V1.2 本地交付版本
 ├── assets/
 │   └── viper3-logo.svg                # Viper3 矢量标识
 └── README.md                          # 项目说明
